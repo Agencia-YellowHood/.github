@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
   </a>
   &nbsp;
-  <a href="www.yellowhood.com.br">
+  <a href="https://www.yellowhood.com.br/">
     <img src="https://img.shields.io/badge/Website-Online-blue?style=flat-square&logo=google-chrome" />
   </a>
   &nbsp;
