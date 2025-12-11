@@ -24,13 +24,6 @@
 
 ---
 
-## 🚀 Sobre nós
-Criamos soluções digitais minimalistas e eficientes.  
-Desenvolvemos sites, automações e ferramentas internas que ajudam empresas e criadores a crescerem online.
-
-## 🛠️ Tecnologias
-React • Next.js • TypeScript • Node.js • Firebase • Tailwind • Vercel
-
 ## 📂 Repositórios
 Aqui você encontra:
 - Projetos internos  
