@@ -3,9 +3,17 @@
   <h1>Agencia YellowHood</h1>
   <p>Premium software and creative development agency from Brazil.</p>
   <p>
-    🌐 <a href="https://yellowhood.com.br">Website</a> • 
-    ✉️ <a href="mailto:gabrielngama@gmail.com">Contato Comercial</a> • 
-    🎨 <a href="https://github.com/GabrielBaiano">Gabriel Gama</a>
+    <a href="https://yellowhood.com.br">
+      <img src="https://img.shields.io/badge/Website-yellowhood.com.br-3b82f6?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    &nbsp;
+    <a href="mailto:gabrielngama@gmail.com">
+      <img src="https://img.shields.io/badge/Email-gabrielngama%40gmail.com-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/GabrielBaiano">
+      <img src="https://img.shields.io/badge/GitHub-GabrielBaiano-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
 </div>
 
