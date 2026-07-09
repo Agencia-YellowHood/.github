@@ -3,8 +3,9 @@
   <h1>Agencia YellowHood</h1>
   <p>Premium software and creative development agency from Brazil.</p>
   <p>
-    <a href="https://github.com/Agencia-YellowHood">GitHub Organization</a> • 
-    <a href="mailto:gabrielngama@gmail.com">Contact</a>
+    🌐 <a href="https://yellowhood.com.br">Website</a> • 
+    ✉️ <a href="mailto:gabrielngama@gmail.com">Contato Comercial</a> • 
+    🎨 <a href="https://github.com/GabrielBaiano">Gabriel Gama</a>
   </p>
 </div>
 
